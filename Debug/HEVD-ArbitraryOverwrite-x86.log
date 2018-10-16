@@ -1,0 +1,8 @@
+﻿  HEVD-ArbitraryOverwrite-x86.cpp
+c:\users\lexa\desktop\accesos directos\estudio ciberseguridad\c\driver development\hevd-arbitraryoverwrite-x86\hevd-arbitraryoverwrite-x86.cpp(177): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+c:\users\lexa\desktop\accesos directos\estudio ciberseguridad\c\driver development\hevd-arbitraryoverwrite-x86\hevd-arbitraryoverwrite-x86.cpp(178): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HMODULE'
+c:\users\lexa\desktop\accesos directos\estudio ciberseguridad\c\driver development\hevd-arbitraryoverwrite-x86\hevd-arbitraryoverwrite-x86.cpp(179): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+c:\users\lexa\desktop\accesos directos\estudio ciberseguridad\c\driver development\hevd-arbitraryoverwrite-x86\hevd-arbitraryoverwrite-x86.cpp(184): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+c:\users\lexa\desktop\accesos directos\estudio ciberseguridad\c\driver development\hevd-arbitraryoverwrite-x86\hevd-arbitraryoverwrite-x86.cpp(90): warning C4101: 'status': unreferenced local variable
+  HEVD-ArbitraryOverwrite-x86.vcxproj -> C:\Users\lexa\Desktop\Accesos Directos\Estudio Ciberseguridad\C\Driver Development\HEVD-ArbitraryOverwrite-x86\Debug\HEVD-ArbitraryOverwrite-x86.exe
+  HEVD-ArbitraryOverwrite-x86.vcxproj -> C:\Users\lexa\Desktop\Accesos Directos\Estudio Ciberseguridad\C\Driver Development\HEVD-ArbitraryOverwrite-x86\Debug\HEVD-ArbitraryOverwrite-x86.pdb (Full PDB)
